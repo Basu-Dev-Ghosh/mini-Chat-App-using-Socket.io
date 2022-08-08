@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mini-Chat-App-using-Socket.io/static/css/main.60380770.css",
+    "main.js": "/mini-Chat-App-using-Socket.io/static/js/main.6e98fb77.js",
+    "index.html": "/mini-Chat-App-using-Socket.io/index.html",
+    "main.60380770.css.map": "/mini-Chat-App-using-Socket.io/static/css/main.60380770.css.map",
+    "main.6e98fb77.js.map": "/mini-Chat-App-using-Socket.io/static/js/main.6e98fb77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60380770.css",
+    "static/js/main.6e98fb77.js"
+  ]
+}
